@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 - 🎓 3rd Year **Computer Science Engineering** student  
-- 💻 Strong interest in **Java** and **Data Structures & Algorithms (Arrays + Strings)**  
+- 💻 Strong interest in **Java** and **Data Structures & Algorithms**  
 - 🌐 Learning and building with **HTML, CSS, JavaScript**  
 - 🧠 Exploring backend step-by-step: **Node.js + Express**  
 - 🗄️ Interested in **DBMS mini projects**  
