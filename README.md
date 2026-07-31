@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 3rd Year **Computer Science Engineering** student  
+- 🎓 4th Year **Computer Science Engineering** student  
 - 💻 Strong interest in **Java** and **Data Structures & Algorithms**  
 - 🌐 Learning and building with **HTML, CSS, JavaScript**  
 - 🧠 Exploring backend step-by-step: **Node.js + Express**  
