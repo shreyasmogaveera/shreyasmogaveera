@@ -1,7 +1,7 @@
 <!-- Premium GitHub Profile README for @shreyasmogaveera -->
 
 <h1 align="center">Hi 👋, I'm Shreyas Mogaveera</h1>
-<h3 align="center">3rd Year CSE Student | Java + DSA Learner | Web Development Enthusiast</h3>
+<h3 align="center">4th Year CSE Student | Java + DSA Learner | Web Development Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/shreyas-mogaveera">
